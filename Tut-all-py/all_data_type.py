@@ -1,0 +1,1 @@
+print("Standard Data Types")
